@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative&family=Lateef&family=Tangerine:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rancho&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merienda:wght@700&display=swap');
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-image: url('http://3.bp.blogspot.com/-jQz4nrHbCMQ/UCvF4J50J5I/AAAAAAAAHYw/kOt-TaEf05E/s1600/Galaxy%2BWallpapers%2B4.jpg');
+}
+.h3{
+    font-family: 'Tangerine', cursive;
+    font-size:3em;
+    color: rgb(255, 255, 255) !important;
+
+}
+.h1{
+    font-family: 'Merienda', cursive;
+    font-size:5em;
+    color: rgb(208, 255, 0) !important;
+}
+.img{
+    height: 100% !important;
+    width: 100% !important;
+    object-fit: cover !important;
+}
+.text{
+    border: 3px solid #8BEDF3;
+    border-radius: 10px;
+    background-color: black;
+    font-family: 'Tangerine', cursive;
+    font-size:2em;
+    color: rgb(208, 255, 0);
+}
+#style{
+    font-family: 'Rancho', cursive;
+    color: rgb(208, 255, 0);
+}
+p{
+    font-family: 'Merienda', cursive;
+    font-size:2em;
+    color: rgb(2, 255, 14);
+    display: flex;
+    align-items: center;
+
+}
